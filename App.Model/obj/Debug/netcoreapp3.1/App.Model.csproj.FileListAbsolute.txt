@@ -1,0 +1,9 @@
+D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Model\bin\Debug\netcoreapp3.1\App.Model.deps.json
+D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Model\bin\Debug\netcoreapp3.1\App.Model.dll
+D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Model\bin\Debug\netcoreapp3.1\App.Model.pdb
+D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Model\obj\Debug\netcoreapp3.1\App.Model.csprojAssemblyReference.cache
+D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Model\obj\Debug\netcoreapp3.1\App.Model.AssemblyInfoInputs.cache
+D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Model\obj\Debug\netcoreapp3.1\App.Model.AssemblyInfo.cs
+D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Model\obj\Debug\netcoreapp3.1\App.Model.csproj.CoreCompileInputs.cache
+D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Model\obj\Debug\netcoreapp3.1\App.Model.dll
+D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Model\obj\Debug\netcoreapp3.1\App.Model.pdb
