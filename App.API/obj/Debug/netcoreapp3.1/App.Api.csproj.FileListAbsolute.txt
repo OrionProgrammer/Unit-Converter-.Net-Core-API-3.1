@@ -12,7 +12,6 @@ D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\EntityFramework.dll
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\EntityFramework6.Npgsql.dll
-D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNet.SignalR.Core.dll
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
@@ -54,7 +53,6 @@ D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\System.Text.Json.dll
-D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.AspNet.SignalR.Core.resources.dll
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
@@ -70,8 +68,6 @@ D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\obj\Debug\netcoreapp3.1\App.Api.csprojAssemblyReference.cache
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\obj\Debug\netcoreapp3.1\App.Api.AssemblyInfoInputs.cache
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\obj\Debug\netcoreapp3.1\App.Api.AssemblyInfo.cs
-D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\obj\Debug\netcoreapp3.1\App.Api.csproj.CoreCompileInputs.cache
-D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\obj\Debug\netcoreapp3.1\App.Api.MvcApplicationPartsAssemblyInfo.cache
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\obj\Debug\netcoreapp3.1\App.Api.RazorTargetAssemblyInfo.cache
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\obj\Debug\netcoreapp3.1\App.Api.csproj.CopyComplete
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\obj\Debug\netcoreapp3.1\staticwebassets\App.Api.StaticWebAssets.Manifest.cache

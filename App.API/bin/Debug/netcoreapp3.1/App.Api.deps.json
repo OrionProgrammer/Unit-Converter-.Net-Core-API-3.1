@@ -29,7 +29,6 @@
           "App.Repository": "1.0.0",
           "AutoMapper": "10.1.1",
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.0",
-          "Microsoft.AspNet.SignalR.Core.cs": "2.4.1",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "3.1.0",
           "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "3.1.11",
           "Microsoft.EntityFrameworkCore": "5.0.5",
@@ -372,27 +371,6 @@
         },
         "compile": {
           "lib/netstandard2.1/EntityFramework6.Npgsql.dll": {}
-        }
-      },
-      "Microsoft.AspNet.SignalR.Core/2.4.1": {
-        "runtime": {
-          "lib/net45/Microsoft.AspNet.SignalR.Core.dll": {
-            "assemblyVersion": "2.4.1.0",
-            "fileVersion": "2.4.1.19093"
-          }
-        },
-        "compile": {
-          "lib/net45/Microsoft.AspNet.SignalR.Core.dll": {}
-        }
-      },
-      "Microsoft.AspNet.SignalR.Core.cs/2.4.1": {
-        "dependencies": {
-          "Microsoft.AspNet.SignalR.Core": "2.4.1"
-        },
-        "resources": {
-          "lib/net45/cs/Microsoft.AspNet.SignalR.Core.resources.dll": {
-            "locale": "cs"
-          }
         }
       },
       "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.0": {
@@ -2704,20 +2682,6 @@
       "sha512": "sha512-brzpVaRX1PJlsLM11Tvt+V3hv9TCRYwvK+JYDlNSjxg8BqEw0leyAQPHqPxiJaf56a9RmdP/2McLt1Iozi1qXA==",
       "path": "entityframework6.npgsql/6.4.1",
       "hashPath": "entityframework6.npgsql.6.4.1.nupkg.sha512"
-    },
-    "Microsoft.AspNet.SignalR.Core/2.4.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-da5vF7ERsXAfFz2RzyXIV2VZACxsw+NxWwKtwXuHde7xuApvI/njJhpzq+LkoYpOYfzPZ8BbccaZ1yOaw1AQ4w==",
-      "path": "microsoft.aspnet.signalr.core/2.4.1",
-      "hashPath": "microsoft.aspnet.signalr.core.2.4.1.nupkg.sha512"
-    },
-    "Microsoft.AspNet.SignalR.Core.cs/2.4.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-PifxmAzG4csI+XvxjfRCYHcTp/+2IdBbINqz4A4p74A7yB3iaDHW/APn+/G+hAW3AApVLttA9c2CDUOzvrh6vg==",
-      "path": "microsoft.aspnet.signalr.core.cs/2.4.1",
-      "hashPath": "microsoft.aspnet.signalr.core.cs.2.4.1.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.0": {
       "type": "package",

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0JsFQrFzaw3xqBms3W7e7rgU8rclad0ZFZtQky0lwh/+h+4EnwDK+5FU/I1Q9UtB0V2Vm/maUKieuhqbM81Ukg==",
+  "dgSpecHash": "e9Y1PhagcRQK0W77awMv7ylQmL5qMU7sTxWJdf0IgLG1cEQWXHAMT6EFxpehve7l/Tm31JRP+yDEv5QRJYCN2g==",
   "success": true,
   "projectFilePath": "D:\\Projects\\Net Core Projects\\Unit Converter API .Net Core 3.1\\App.Api\\App.Api.csproj",
   "expectedPackageFiles": [
@@ -8,12 +8,15 @@
     "C:\\Users\\Lenovo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\entityframework\\6.4.0\\entityframework.6.4.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\entityframework6.npgsql\\6.4.1\\entityframework6.npgsql.6.4.1.nupkg.sha512",
-    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnet.signalr.core\\2.4.1\\microsoft.aspnet.signalr.core.2.4.1.nupkg.sha512",
-    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnet.signalr.core.cs\\2.4.1\\microsoft.aspnet.signalr.core.cs.2.4.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.0\\microsoft.aspnetcore.authentication.jwtbearer.3.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\2.2.0\\microsoft.aspnetcore.connections.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.3\\microsoft.aspnetcore.http.features.5.0.3.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.11\\microsoft.aspnetcore.jsonpatch.3.1.11.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.11\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.11.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\1.1.0\\microsoft.aspnetcore.signalr.common.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.signalr.core\\1.1.0\\microsoft.aspnetcore.signalr.core.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\1.1.0\\microsoft.aspnetcore.signalr.protocols.json.1.1.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.5\\microsoft.entityframeworkcore.5.0.5.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.5\\microsoft.entityframeworkcore.abstractions.5.0.5.nupkg.sha512",
@@ -51,6 +54,7 @@
     "C:\\Users\\Lenovo\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\system.codedom\\4.7.0\\system.codedom.4.7.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
@@ -68,28 +72,8 @@
     "C:\\Users\\Lenovo\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.threading.channels\\4.5.0\\system.threading.channels.4.5.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Microsoft.AspNet.SignalR.Core 2.4.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
-      "libraryId": "Microsoft.AspNet.SignalR.Core",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Microsoft.AspNet.SignalR.Core.cs 2.4.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
-      "libraryId": "Microsoft.AspNet.SignalR.Core.cs",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  "logs": []
 }
