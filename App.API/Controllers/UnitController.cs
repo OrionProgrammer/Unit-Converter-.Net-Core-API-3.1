@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.SignalR;
 
 namespace App.Api.Controllers
 {
-    //[Authorize]
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class UnitController : ControllerBase
@@ -37,7 +37,7 @@ namespace App.Api.Controllers
         /// <param name="unitModel">{Unit, ToMetric, UserId}</param>
         /// <returns></returns>
         [HttpPost("temp")]
-        public async Task<UnitModel> Temperature(UnitModel unitModel)
+        public async Task<IActionResult> Temperature(UnitModel unitModel)
         {
             auditLog.Description = unitModel.ToMetric ? "Converted temperature from farenheit to celcius. Unit Value = " + unitModel.Unit.ToString() :
                     "Converted temperature from celcius to farenheit. Unit Value = " + unitModel.Unit.ToString();
@@ -59,7 +59,7 @@ namespace App.Api.Controllers
             //send the result back using SignalR
             await _hub.Clients.All.SendAsync("unitModelResult", unitModel);
 
-            return unitModel;
+            return Ok(unitModel);
         }
 
         /// <summary>
@@ -68,7 +68,7 @@ namespace App.Api.Controllers
         /// <param name="unitModel">{Unit, ToMetric, UserId}</param>
         /// <returns></returns>
         [HttpPost("length")]
-        public async Task<UnitModel> Length(UnitModel unitModel)
+        public async Task<IActionResult> Length(UnitModel unitModel)
         {
             auditLog.Description = unitModel.ToMetric ? "Converted length from yards to meters. Unit Value = " + unitModel.Unit.ToString() :
                     "Converted length from meters to yards. Unit Value = " + unitModel.Unit.ToString();
@@ -90,7 +90,7 @@ namespace App.Api.Controllers
             //send the result back using SignalR
             await _hub.Clients.All.SendAsync("unitModelResult", unitModel);
             
-            return unitModel;
+            return Ok(unitModel);
         }
 
 
@@ -100,7 +100,7 @@ namespace App.Api.Controllers
         /// <param name="unitModel">{Unit, ToMetric, UserId}</param>
         /// <returns></returns>
         [HttpPost("mass")]
-        public async Task<UnitModel> Mass(UnitModel unitModel)
+        public async Task<IActionResult> Mass(UnitModel unitModel)
         {
             auditLog.Description = unitModel.ToMetric ? "Converted mass from pounds to kilograms. Unit Value = " + unitModel.Unit.ToString() :
                     "Converted mass from kilograms to pounds. Unit Value = " + unitModel.Unit.ToString();
@@ -122,7 +122,7 @@ namespace App.Api.Controllers
             //send the result back using SignalR
             await _hub.Clients.All.SendAsync("unitModelResult", unitModel);
 
-            return unitModel;
+            return Ok(unitModel);
         }
 
         /// <summary>
@@ -131,7 +131,7 @@ namespace App.Api.Controllers
         /// <param name="unitModel">{Unit, ToMetric, UserId}</param>
         /// <returns></returns>
         [HttpPost("power")]
-        public async Task<UnitModel> Power(UnitModel unitModel)
+        public async Task<IActionResult> Power(UnitModel unitModel)
         {
             auditLog.Description = unitModel.ToMetric ? "Converted power from horsepower to kilowatt. Unit Value = " + unitModel.Unit.ToString() :
                     "Converted power from kilowatt to horsepower. Unit Value = " + unitModel.Unit.ToString();
@@ -153,7 +153,7 @@ namespace App.Api.Controllers
             //send the result back using SignalR
             await _hub.Clients.All.SendAsync("unitModelResult", unitModel);
 
-            return unitModel;
+            return Ok(unitModel);
         }
 
         /// <summary>
@@ -162,7 +162,7 @@ namespace App.Api.Controllers
         /// <param name="unitModel">{Unit, ToMetric, UserId}</param>
         /// <returns></returns>
         [HttpPost("volume")]
-        public async Task<UnitModel> Volume(UnitModel unitModel)
+        public async Task<IActionResult> Volume(UnitModel unitModel)
         {
             auditLog.Description = unitModel.ToMetric ? "Converted volume from cubic foot to cubic meter. Unit Value = " + unitModel.Unit.ToString() :
                     "Converted volume from cubic meter to cubic foot. Unit Value = " + unitModel.Unit.ToString();
@@ -184,7 +184,7 @@ namespace App.Api.Controllers
             //send the result back using SignalR
             await _hub.Clients.All.SendAsync("unitModelResult", unitModel);
 
-            return unitModel;
+            return Ok(unitModel);
         }
     }
 }

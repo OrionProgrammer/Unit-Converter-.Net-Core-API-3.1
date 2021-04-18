@@ -1,6 +1,5 @@
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\App.Api.exe
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\App.Api.deps.json
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\App.Api.runtimeconfig.json
@@ -12,7 +11,6 @@ D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\EntityFramework.dll
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\EntityFramework6.Npgsql.dll
-D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNet.SignalR.Core.dll
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
@@ -54,7 +52,6 @@ D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\System.Text.Json.dll
-D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.AspNet.SignalR.Core.resources.dll
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
@@ -79,3 +76,4 @@ D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\obj\Debug
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\obj\Debug\netcoreapp3.1\App.Api.dll
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\obj\Debug\netcoreapp3.1\App.Api.pdb
 D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.Api\obj\Debug\netcoreapp3.1\App.Api.genruntimeconfig.cache
+D:\Projects\Net Core Projects\Unit Converter API .Net Core 3.1\App.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\App.Api.styles.css
